@@ -8,7 +8,7 @@ import sys
 from datetime import datetime
 
 # ============================================================
-#  ROBLOX USERNAME FINDER — by !Lehy4n (RBX: Lehyan0902_54)
+#  ROBLOX USERNAME FINDER — by !Lehy4n
 #  Automatically finds available short Roblox usernames (3-4 chars)
 # ============================================================
 #
