@@ -83,8 +83,8 @@ def main():
     os.system("cls" if os.name == "nt" else "clear")
     print("=" * 60)
     print("   ROBLOX USERNAME FINDER — Short Username Hunter")
-    print("   github.com/  |  Powered by Roblox API")
-    print("   Credits: !Lehy4n (dc: 7lhn & rbx: Lehyan0902_54)")
+    print("   github.com/Lehy4n/Roblox-Username-Finder  |  Powered by Roblox API")
+    print("   Credits: !Lehy4n (discord: 7lhn)")
     print("=" * 60)
 
     charset = build_charset()
